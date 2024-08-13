@@ -20,5 +20,8 @@
 
     {{-- custom scripts --}}
     <script src="{{ asset('js/index.js') }}"></script>
+
+    {{-- temporary script --}}
+    <script src="https://api.mapbox.com/mapbox.js/plugins/arc.js/v0.1.0/arc.js"></script>
 </body>
 </html>
